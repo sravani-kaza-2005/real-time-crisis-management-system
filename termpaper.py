@@ -23,7 +23,7 @@ def login_form():
     password = st.text_input("Password", type="password")
 
     if st.button("Login"):
-        if username == "admin" and password == "admin":
+        if username == "sravani" and password == "admin":
             st.session_state.logged_in = True
             st.success("Login successful!")
             st.rerun()
@@ -42,7 +42,7 @@ if not st.session_state.logged_in:
 # -------------------------------
 def send_email_alert(subject, message, recipient_email):
     sender_email = "sravani20499@gmail.com"
-    sender_password = "Sravani_052005"  # WARNING: Use environment variables or secrets in production
+    sender_password = "admin"  # WARNING: Use environment variables or secrets in production
 
     msg = MIMEMultipart()
     msg["From"] = sender_email
@@ -236,4 +236,5 @@ st.subheader("\U0001F535 Dot Graph: Location vs Severity")
 fig5, ax5 = plt.subplots()
 sns.stripplot(data=df, x="Location", y="Severity", jitter=True, palette="deep", ax=ax5)
 ax5.set_title("Severity vs Location")
+
 st.pyplot(fig5)
