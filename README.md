@@ -1,6 +1,6 @@
 PROJECT TITTLE : 🚨 Real-Time Crisis Management System
 
-A powerful, real-time web application that monitors, predicts, and visualizes critical situations such as floods, earthquakes, and other emergencies using enriched datasets and machine learning — built with **Python** and **Streamlit**.
+A powerful, real-time web application that monitors, predicts, and visualizes critical situations such as floods, earthquakes, and other crisis emergencies using enriched datasets and machine learning techniques — built with **Python** and **Streamlit**.
 
 ---
 
