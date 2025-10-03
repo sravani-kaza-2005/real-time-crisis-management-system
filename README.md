@@ -1,12 +1,13 @@
 PROJECT TITTLE : 🚨 Real-Time Crisis Management System
 
-A powerful, real-time web application that monitors, predicts, and visualizes critical situations such as floods, earthquakes, and other emergencies using enriched datasets and machine learning — all through a sleek **dark-themed dashboard** built with **Python** and **Streamlit**.
+A powerful, real-time web application that monitors, predicts, and visualizes critical situations such as floods, earthquakes, and other emergencies using enriched datasets and machine learning — built with **Python** and **Streamlit**.
 
 ---
 
 ## 🔎 Overview
 
 🎯 **Purpose:**  
+The Real-Time Crisis Management System is a Python-based platform designed to detect, analyze, and respond to critical situations in real time. It leverages multi-source data including weather APIs, social media feeds, IoT sensors, and public reports to provide actionable insights during emergencies. The system is aimed at improving disaster response, public safety, and decision-making efficiency.
 To provide a centralized system for detecting and responding to real-time crisis events with clarity and speed.
 
 🧰 **Core Functions:**  
@@ -177,6 +178,30 @@ real-time-crisis-management-system/
 ## 👤User Pricing(🆓 Free, ⚡Basic, 💎Premium,🏢Enterprise) 
 <img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/cc5c106f-2069-4822-b645-85ffea39c974" />
 
+**👤User-🆓Free**
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/fe65624e-2e99-448b-bb60-8b7363fc90c4" />
+<img width="1280" height="682" alt="image" src="https://github.com/user-attachments/assets/c8550fcb-7bf8-4adb-a4a6-a02e4654c6ba" />
+
+**👤User-⚡Basic**
+<img width="1280" height="681" alt="image" src="https://github.com/user-attachments/assets/e6187af5-e470-488b-b7bc-cf3fa7de4152" />
+<img width="1280" height="688" alt="image" src="https://github.com/user-attachments/assets/3f014a45-e785-49b7-8751-5ea1e1859a59" />
+<img width="1280" height="700" alt="image" src="https://github.com/user-attachments/assets/38cf83d3-fce6-4d6b-8c53-d3ad1e014817" />
+<img width="1280" height="608" alt="image" src="https://github.com/user-attachments/assets/d4afb596-28e3-46db-b13d-9c40218037a7" />
+<img width="1280" height="599" alt="image" src="https://github.com/user-attachments/assets/4ad21974-9b54-421a-a35a-e1e9e00076c8" />
+<img width="1280" height="657" alt="image" src="https://github.com/user-attachments/assets/bf2d253c-e078-4942-b08d-140f80b09ef1" />
+
+**👤User-💎Premium**
+<img width="1280" height="533" alt="image" src="https://github.com/user-attachments/assets/8eba416e-5219-4927-a0ad-331db650e005" />
+<img width="1280" height="605" alt="image" src="https://github.com/user-attachments/assets/311872d4-c7e5-4c66-889c-40839ad8dc03" />
+<img width="1280" height="631" alt="image" src="https://github.com/user-attachments/assets/0638351f-ddd4-49fa-a744-6f59c825abae" />
+<img width="1280" height="649" alt="image" src="https://github.com/user-attachments/assets/a2b644d1-e211-4325-b781-504b7f48d77c" />
+
+**👤User-🏢Enterprise**
+<img width="1280" height="620" alt="image" src="https://github.com/user-attachments/assets/69308629-c8ba-4633-8b8c-d68cbcef54cf" />
+<img width="1280" height="678" alt="image" src="https://github.com/user-attachments/assets/b045b784-cd7a-4896-a6a3-ea012c3ba85d" />
+<img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/098a1536-e5fe-4e3e-95dc-6e5e223903e8" />
+<img width="1280" height="683" alt="image" src="https://github.com/user-attachments/assets/b684fdd0-b0d6-40c3-a9cb-9cc947344288" />
+<img width="1280" height="694" alt="image" src="https://github.com/user-attachments/assets/0b765912-f6a6-4e32-b86e-34d8e5ba6c4e" />
 
 ------
 ## 📜 License
