@@ -11,11 +11,11 @@ The Real-Time Crisis Management System is a Python-based platform designed to de
 To provide a centralized system for detecting and responding to real-time crisis events with clarity and speed.
 
 🧰 **Core Functions:**  
-- Live crisis data visualization  
-- Severity prediction using ML  
-- Email alerts for high-risk zones  
-- Role-based access (Admin & User)  
-- Premium dashboard module with advanced analytics  
+- **Real-Time Crisis Monitoring:** Visualize live data on ongoing emergencies.  
+- **Crisis Severity Prediction:** Predict the impact and urgency of events using ML algorithms.  
+- **Automated Alerts:** Send email notifications for high-risk are 
+- **Role-Based Access Control:** Admin, User, Premium, and Enterprise access with tailored features. 
+- **Advanced Analytics Dashboard:** Premium module offering enriched insights and predictive analytics. 
 
 ---
 
