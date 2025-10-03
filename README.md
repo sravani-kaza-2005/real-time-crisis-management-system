@@ -140,14 +140,28 @@ real-time-crisis-management-system/
 > 🔐 Secure Admin-only panels and CSV controls  
 
 --- 
-**Login**
+**Login Dashboard**
 <img width="1908" height="1000" alt="image" src="https://github.com/user-attachments/assets/f27542be-873f-4e73-ae40-5f852f2c9dd1" />
 <img width="1918" height="942" alt="image" src="https://github.com/user-attachments/assets/ad0a9644-d478-4a65-aaa5-2572262b9408" />
 --
 **Admin Module**
 <img width="1914" height="647" alt="image" src="https://github.com/user-attachments/assets/7df2a457-bcb7-47bd-be71-192004014a6c" />
 <img width="1911" height="644" alt="image" src="https://github.com/user-attachments/assets/54caf182-4fcf-4c0e-b9a4-45fb9b283c90" />
+<img width="1915" height="1057" alt="image" src="https://github.com/user-attachments/assets/2c6a8e3f-2341-46e9-8d3e-e8e0bb5b3af6" />
+<img width="1910" height="608" alt="image" src="https://github.com/user-attachments/assets/65aec123-a8f8-4e47-8af2-d7ecb34d4c60" />
+<img width="1918" height="1072" alt="image" src="https://github.com/user-attachments/assets/9fc129b1-4c53-48e2-adda-0e78836e328d" />
+<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/c0fcb472-af72-4aed-820c-0c23c6878ab3" />
+<img width="1910" height="1072" alt="image" src="https://github.com/user-attachments/assets/cdf1e381-cd74-4164-bfe7-db4e4004fe98" />
+<img width="1134" height="988" alt="image" src="https://github.com/user-attachments/assets/56fdc35d-2f7f-471a-9012-679e3e4680c4" />
+<img width="692" height="698" alt="image" src="https://github.com/user-attachments/assets/da5f6d60-0a0b-45e2-b975-47d471e12578" />
+<img width="891" height="631" alt="image" src="https://github.com/user-attachments/assets/09d178dc-83cb-49e6-a55e-9e369ab9ae46" />
+<img width="887" height="672" alt="image" src="https://github.com/user-attachments/assets/7b697202-d2c9-4f21-a74c-c17fe6c2fdc5" />
+<img width="912" height="631" alt="image" src="https://github.com/user-attachments/assets/72085e97-70fc-4417-becc-589a5648782a" />
+<img width="1460" height="950" alt="image" src="https://github.com/user-attachments/assets/0487c44b-f23b-42ff-a756-56be26371f9b" />
+<img width="1143" height="1048" alt="image" src="https://github.com/user-attachments/assets/1b2be222-b2fd-4c5e-9406-0da17241be2c" />
 
+-----
+**User Module**
 
 ## 📜 License
 
