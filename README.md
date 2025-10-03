@@ -79,12 +79,17 @@ real-time-crisis-management-system/
 │
 ├── 📄 README.md
 ├── 📄 requirements.txt
-├── 📄 termpaper.py                ← Admin module
-├── 📄 termpaperuser.py            ← User module
+├── 📄 termpaper.py                  ← Admin module 🛡️
+├── 📄 termpaperuser.py              ← User module 👤
+│    ├── 📄 free_crisis_plans.py     ← Free plans 🆓
+│    ├── 📄 basic_crisis_plans.py    ← Basic plans ⚡
+│    ├── 📄 premium_crisis_plans.py  ← Premium plans 💎
+│    └── 📄 enterprise_crisis_plans.py ← Enterprise plans 🏢
 ├── 📄 RealTime_Crisis_24Hours_India.csv  ← Crisis dataset
-├── 📁 images/                     ← Visual gallery (flood.jpg, etc.)
-└── 📁 .streamlit/                 ← Optional configs
-    └── config.toml
+├── 📁 images/                       ← Visual crisis gallery (flood.jpg, earthquakes.jpg.......etc.)
+└── 📁 .streamlit/                   ← Optional configs
+     └── config.toml
+
 ```
 
 ---
