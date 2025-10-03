@@ -145,6 +145,7 @@ real-time-crisis-management-system/
 <img width="1918" height="942" alt="image" src="https://github.com/user-attachments/assets/ad0a9644-d478-4a65-aaa5-2572262b9408" />
 --
 **Admin Module**
+<img width="1910" height="992" alt="image" src="https://github.com/user-attachments/assets/2976a7e3-7f83-4c25-9cce-efe528fcfb50" />
 <img width="1914" height="647" alt="image" src="https://github.com/user-attachments/assets/7df2a457-bcb7-47bd-be71-192004014a6c" />
 <img width="1911" height="644" alt="image" src="https://github.com/user-attachments/assets/54caf182-4fcf-4c0e-b9a4-45fb9b283c90" />
 <img width="1915" height="1057" alt="image" src="https://github.com/user-attachments/assets/2c6a8e3f-2341-46e9-8d3e-e8e0bb5b3af6" />
