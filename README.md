@@ -140,10 +140,11 @@ real-time-crisis-management-system/
 > 🔐 Secure Admin-only panels and CSV controls  
 
 --- 
-**Login Dashboard**
+**Login Authentication**
 <img width="1908" height="1000" alt="image" src="https://github.com/user-attachments/assets/f27542be-873f-4e73-ae40-5f852f2c9dd1" />
 <img width="1918" height="942" alt="image" src="https://github.com/user-attachments/assets/ad0a9644-d478-4a65-aaa5-2572262b9408" />
---
+
+-----
 **Admin Module**
 <img width="1910" height="992" alt="image" src="https://github.com/user-attachments/assets/2976a7e3-7f83-4c25-9cce-efe528fcfb50" />
 <img width="1914" height="647" alt="image" src="https://github.com/user-attachments/assets/7df2a457-bcb7-47bd-be71-192004014a6c" />
@@ -163,7 +164,18 @@ real-time-crisis-management-system/
 
 -----
 **User Module**
+<img width="1912" height="1068" alt="image" src="https://github.com/user-attachments/assets/fe31d6f7-67e9-48f0-84eb-a77bd5d6ff81" />
+<img width="1904" height="1021" alt="image" src="https://github.com/user-attachments/assets/929b050f-dbee-4dc4-ae7e-3c5a3f52ba76" />
+<img width="1908" height="1049" alt="image" src="https://github.com/user-attachments/assets/b5c1d254-1f88-47c7-bb4a-72616ee6c1f6" />
+<img width="1910" height="1035" alt="image" src="https://github.com/user-attachments/assets/7cd6777d-3fe6-495c-9752-dc843f2c6fef" />
+<img width="1903" height="1082" alt="image" src="https://github.com/user-attachments/assets/345add37-2da1-4c52-ba55-345b2ed0ae4a" />
 
+------
+**User Pricing(Free, Basic, Premium, Enterprise**
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/cc5c106f-2069-4822-b645-85ffea39c974" />
+
+
+------
 ## 📜 License
 
 📝 This project is licensed under the **MIT License** — allowing open use, modification, and distribution for personal or commercial purposes.
