@@ -140,6 +140,8 @@ real-time-crisis-management-system/
 > 🔐 Secure Admin-only panels and CSV controls  
 
 ---
+<img width="1908" height="1000" alt="image" src="https://github.com/user-attachments/assets/f27542be-873f-4e73-ae40-5f852f2c9dd1" />
+
 
 ## 📜 License
 
