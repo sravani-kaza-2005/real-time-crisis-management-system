@@ -216,4 +216,4 @@ real-time-crisis-management-system/
 
 ---
 
-🔧 **Designed & Developed with dedication by KAZA SRAVANI**
+🔧 **Designed & Developed with dedication by SRAVANI KAZA**
